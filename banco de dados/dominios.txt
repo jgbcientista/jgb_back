@@ -1,0 +1,29 @@
+{
+  "id": 0,
+  "nome": "JOAO GUEDES DE BRITO",
+  "cpf": "04218766541",
+  "dataNascimento": "1989-06-23",
+  "tipoPessoa": 1,
+  "situacao": true,
+  "login": "joao.brito",
+  "senha": "123456"
+}
+
+{
+  "id": 0,
+  "nome": "ANALISTA DE SISEMAS",
+  "situacao": true
+}
+
+{
+  "id": 0,
+  "nome": "ROLE_ADMIN",
+  "descricao": "Perfil de Administrador"
+}
+
+{
+  "id": 0,
+  "idPessoa": 1,
+  "idFuncao": 1,
+  "situacao": true
+}
